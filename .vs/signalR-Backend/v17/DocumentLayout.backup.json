@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2C9F399-B3B9-4C8F-9E13-66E43F8A5392}|signalR-Backend\\signalR-Backend.csproj|c:\\users\\syed\\desktop\\digesting signalr\\signalr-backend\\signalr-backend\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C9F399-B3B9-4C8F-9E13-66E43F8A5392}|signalR-Backend\\signalR-Backend.csproj|solutionrelative:signalr-backend\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C9F399-B3B9-4C8F-9E13-66E43F8A5392}|signalR-Backend\\signalR-Backend.csproj|c:\\users\\syed\\desktop\\digesting signalr\\signalr-backend\\signalr-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2C9F399-B3B9-4C8F-9E13-66E43F8A5392}|signalR-Backend\\signalR-Backend.csproj|solutionrelative:signalr-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Syed\\Desktop\\Digesting SignalR\\signalR-Backend\\signalR-Backend\\Program.cs",
-              "RelativeDocumentMoniker": "signalR-Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\Syed\\Desktop\\Digesting SignalR\\signalR-Backend\\signalR-Backend\\Program.cs",
-              "RelativeToolTip": "signalR-Backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T21:17:36.08Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +32,35 @@
               "RelativeDocumentMoniker": "signalR-Backend\\Hubs\\ChatHub.cs",
               "ToolTip": "C:\\Users\\Syed\\Desktop\\Digesting SignalR\\signalR-Backend\\signalR-Backend\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "signalR-Backend\\Hubs\\ChatHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T21:15:40.597Z",
+              "WhenOpened": "2025-09-02T07:26:18.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syed\\Desktop\\Digesting SignalR\\signalR-Backend\\signalR-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "signalR-Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Syed\\Desktop\\Digesting SignalR\\signalR-Backend\\signalR-Backend\\Program.cs",
+              "RelativeToolTip": "signalR-Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T21:17:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Syed\\Desktop\\Digesting SignalR\\signalR-Backend\\signalR-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "signalR-Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Syed\\Desktop\\Digesting SignalR\\signalR-Backend\\signalR-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "signalR-Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T06:44:16.675Z",
               "EditorCaption": ""
             }
           ]

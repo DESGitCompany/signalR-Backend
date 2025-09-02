@@ -6,7 +6,7 @@ builder.Services.AddSignalR();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
-        policy.WithOrigins("http://localhost:5173") // Vue dev server
+        policy.WithOrigins("https://localhost:57493") // Vue dev server //http://localhost:5173
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials());
